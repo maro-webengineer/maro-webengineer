@@ -3,9 +3,6 @@
 
 I am a 23 year old Web Engineer from Japan. It has been about 5 years since I started my career as a web engineer. I am currently working with PHP as my main language in the development field. I am learning to be a full stack engineer.
 
-## Contact Me
-[![Twitter: chibimaro](https://img.shields.io/twitter/follow/chibimaro_nikki?style=social)](https://twitter.com/chibimaro_nikki)
-
 # My Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=4&i=html,css,js,docker,php,laravel,java,vue" />
 
