@@ -1,7 +1,10 @@
 # Hi, I'm Chibimaro👋
 ![GitHub Profile views](https://komarev.com/ghpvc/?username=maro-webengineer) [![My Qiita posts](https://qiita-badge.apiapi.app/s/Chibimaro/posts.svg)](http://qiita.com/https://qiita.com/Chibimaro) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Chibimaro/contributions.svg)](http://qiita.com/Chibimaro)
 
-I am a 23 year old Web Engineer from Japan. It has been about 5 years since I started my career as a web engineer. I am currently working with PHP as my main language in the development field. I am learning to be a full stack engineer.
+はじめまして！GitHubプロフィールを拝見いただき、ありがとうございます。<br>
+Webエンジニアとしてキャリアをスタートしてから約5年が経ちました。現在23歳のWebエンジニアです。<br>
+SESとしてPHP言語を使用した開発をしています。<br>
+日々プログラマーとしてのスキルを向上させるため、様々なことに関して学習を続けています。
 
 # My Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=4&i=html,css,js,docker,php,laravel,java,vue" />
